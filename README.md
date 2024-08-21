@@ -3,8 +3,9 @@ Atividade 1
 
 3 filmes favoritos
 - gente grande
-- arremessando alto
+- carros
 - nemo
+- harry potter
 
 3 livros favoritos
 - harry potter
