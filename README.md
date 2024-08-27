@@ -7,7 +7,7 @@ Atividade 1
 - nemo
 - harry potter
 
-3 livros favoritos
+ livros favoritos
 - harry potter
 - o estraordinario
 
