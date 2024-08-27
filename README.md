@@ -7,7 +7,11 @@ Atividade 1
 - nemo
 
 
-3 livros favoritos
+- harry potter
+- gente grande 2
+
+
+ livros favoritos
 - harry potter
 - o estraordinario
-- menino do pijama listrado
+  
